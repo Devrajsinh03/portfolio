@@ -6,9 +6,33 @@
     --font-black: #16191B;
     --font-grey: #616566;
     --white:white;
+    /* themes */
+    --color-1:#85ffc7;
+    --color-2 :#297373;
+    --color-3:#ff8552;
+    --color-4:#e6e6e6;
+    --color-5:#39393a;
 }
 
 body
 {
     background-color: var(--primary);
+}
+img
+{
+    height: 100vh;
+}
+.head
+{
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+}
+nav ul
+{
+    list-style: none;
+    ist-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
