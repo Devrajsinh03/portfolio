@@ -1,0 +1,14 @@
+:root
+{
+    --primary: #D4EDF4;
+    --secondary: #FF9E7A;
+    --secondary-dark: #E18361;
+    --font-black: #16191B;
+    --font-grey: #616566;
+    --white:white;
+}
+
+body
+{
+    background-color: var(--primary);
+}
