@@ -8,12 +8,11 @@
     --white:white;
     /* themes */
     --color-1:#85ffc7;
-    --color-2 :#297373;
+    --color-2:#297373;
     --color-3:#ff8552;
     --color-4:#e6e6e6;
     --color-5:#39393a;
 }
-
 body
 {
     background-color: var(--primary);
